@@ -1,8 +1,8 @@
-### Hiya Stranger! I'm Roshan 🧣
+### Hiya Stranger! I'm L'eau 🧣
 
-- I’m currently developing my [Portfolio Site](https://eucleiance.github.io)
+- I’m currently developing my [Portfolio Site](https://leauspaz.github.io)
 - I'm also a 2D/3D Artist. Here's my [Showreel](https://github.com/eucleiance/eucleiance.github.io/raw/refs/heads/master/docs/videos/showreel.mp4?download=)
-- Here are my [Dotfiles](https://github.com/eucleiance/dotfiles/)
+- Here are my [Dotfiles](https://github.com/leauspaz/dotfiles/)
 - Here's my [TradingView Profile](https://www.tradingview.com/u/coldbrewrosh/)
 
 ---
