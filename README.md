@@ -20,7 +20,7 @@
 
 ![Neovim](https://img.shields.io/badge/-Neovim-222222?style=flat-square&logo=neovim)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-222222?style=flat&logo=hyprland)
-![spaCy](https://img.shields.io/badge/-spaCy-222222?style=flat&logo=spacy)
+![spaCy](https://img.shields.io/badge/-SpaCy-222222?style=flat&logo=spacy)
 ![NixOS](https://img.shields.io/badge/-NixOS-222222?style=flat&logo=nixos)
 ![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-222222?style=flat-square&logo=numpy)
