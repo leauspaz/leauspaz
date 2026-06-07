@@ -1,6 +1,6 @@
 ### Hiya Stranger! I'm L'eau 🧣
 
-![](https://img.shields.io/badge/-222222?style=flat&logo=lucid&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=ea&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=utorrent&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=archlinux&logoColor=1793D1)![](https://img.shields.io/badge/-222222?style=flat&logo=picsart&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=sega&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=zig&logoColor=F7A41D)
+![](https://img.shields.io/badge/-222222?style=flat&logo=lucid&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=ea&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=utorrent&logoColor=white) ![](https://img.shields.io/badge/-222222?style=flat&logo=sega&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=picsart&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=archlinux&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=zig&logoColor=white)
 
 ---
 
