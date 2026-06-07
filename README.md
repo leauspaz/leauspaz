@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/-222222?style=flat&logo=lucid&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=ea&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=utorrent&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=sega&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=picsart&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=archlinux&logoColor=white)![](https://img.shields.io/badge/-222222?style=flat&logo=zig&logoColor=white)
 
-### Hiya Stranger! I'm L'eau 🧣 ![](https://img.shields.io/badge/-000000?style=flat&logo=redbull&logoColor=DB0A40)
+### Hiya Stranger! I'm L'eau 🧣
 
 - That's all really.
 
@@ -23,7 +23,7 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-222222?style=flat-square&logo=neovim)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-222222?style=flat&logo=hyprland)
 ![spaCy](https://img.shields.io/badge/-spaCy-222222?style=flat&logo=spacy)
-![NixOS](https://img.shields.io/badge/-NixOS-222222?style=flat&logo=nixos&logoColor=FCC624)
+![NixOS](https://img.shields.io/badge/-NixOS-222222?style=flat&logo=nixos)
 ![Pandas](https://img.shields.io/badge/-Pandas-222222?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-222222?style=flat-square&logo=numpy)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
