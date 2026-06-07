@@ -4,8 +4,6 @@
 
 - That's all really.
 
----
-
 
 ##### Language Stack 🧬
 
